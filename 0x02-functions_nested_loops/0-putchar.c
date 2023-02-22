@@ -6,7 +6,8 @@
 	 */
 
 
-	int main(void)
+	int main(Functions, nested loops
+C)
 	{
 	_putchar('_');
 	_putchar('p');
