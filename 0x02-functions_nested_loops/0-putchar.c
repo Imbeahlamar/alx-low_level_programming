@@ -1,9 +1,8 @@
 #include "main.h"
 	/**
-	 *main - Prints Holberton as a message.
- *
- * Return: Always 0 (Success)
-
+	 * main - print _putchar
+	 * is written by mbah
+	 * Return: 0
 	 */
 
 
