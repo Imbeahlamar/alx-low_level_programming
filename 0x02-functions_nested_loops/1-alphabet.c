@@ -12,8 +12,8 @@
 
 	void print_alphabet(void)
 	{
-		char letter;
-		(return) (0)
+		char letter:
+
 
 
 		for (letter = 'a'; letter <= 'z'; letter++)
